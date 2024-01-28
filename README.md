@@ -1,12 +1,12 @@
 # OSProject Running Containers for Application Development
 
-Group Name: SubuhArmy
+Group Name: **SubuhArmy**
 
 Section: 2
 
 Team Mates:
-1. NABIL BIN MUHD NORDIN and 2210859
-2. __Fill name__ and __matric no__
+1. **NABIL BIN MUHD NORDIN** and **2210859**
+2. **MUHAMMAD HASIFF BIN** BADROL and **2210801**
 3. __Fill name__ and __matric no__
 
 ## Rules
@@ -24,8 +24,10 @@ Team Mates:
 
 ***Questions:***
 
-1. What is the link of the fork OSProject in your repository. ***(1 mark)*** __Fill answer here__.
-2. How many files and folders are in this repository. ***(1 mark)*** __Fill answer here__.
+1. What is the link of the fork OSProject in your repository. ***(1 mark)*** 
+- (https://github.com/Fertlas/OSProject).
+2. How many files and folders are in this repository. ***(1 mark)*** 
+- There are 1 folder and 1 file containing 6 files.
 
 
 ## Exploring github codespaces
