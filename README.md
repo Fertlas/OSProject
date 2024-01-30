@@ -6,8 +6,8 @@ Section: 2
 
 Team Mates:
 1. **NABIL BIN MUHD NORDIN** and **2210859**
-2. **MUHAMMAD HASIFF BIN** BADROL and **2210801**
-3. **FAHIM NURHAZIQ BIN FADZIL**and **2216513**
+2. **MUHAMAD HASIFF BIN BADROL** and **2210801**
+3. **FAHIM NURHAZIQ BIN FADZIL** and **2216513**
 
 ## Rules
 1. You are allowed to have **3 group** members. *Exception* is allowed **IFF (if and only if)** you are allowed to have 4 group members if you are a **multinational** or a **multigender** group. 
@@ -346,8 +346,8 @@ Linux codespaces-5a1edb 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25
 - **CPU 0**: 2560 4K pages
 - **CPU 1**: 2560 4K pages
 16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** 
-- **CPU 0**: 2893.808 MHz 
-- **CPU 1**: 2985.995 MHz
+- **CPU 0**: 2944.842 MHz 
+- **CPU 1**: 3109.287 MHz
 17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** 
 -  PID = 504, user = codespa+
 
