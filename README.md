@@ -336,7 +336,7 @@ Linux codespaces-5a1edb 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25
 11. What is the available free memory in the system. ***(1 mark)*** 
 - 272 MB
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** 
-- 
+- 17 GB
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** 
 - **Linux codespaces-5a1edb 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux**
 14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** 
