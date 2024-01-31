@@ -432,7 +432,8 @@ At the terminal, create a new directory called **myroot**, and run a instance of
 
 ***Questions:***
 
-1. Check the permission of the files created in myroot, what user and group is the files created in docker container on the host virtual machine? . ***(2 mark)*** 
+1. Check the permission of the files created in myroot, what user and group is the files created in docker container on the host virtual machine? . ***(2 mark)***
+- uid=0(root) gid=0(root) groups=0(root) 
 
 2. Can you change the permission of the files to user codespace.  You will need this to be able to commit and get points for this question. ***(2 mark)***
 ```bash
@@ -440,7 +441,18 @@ At the terminal, create a new directory called **myroot**, and run a instance of
 sudo chown -R codespace:codespace myroot
 
 ```
-*** __Fill answer here__.***
+```bash
+@Hasiff100303 ➜ /workspaces/OSProject (main) $ sudo chown -R codespace:codespace myroot
+@Hasiff100303 ➜ /workspaces/OSProject (main) $ ls -l /workspaces/OSProject/myroot
+total 0
+@Hasiff100303 ➜ /workspaces/OSProject (main) $ ls -la /workspaces/OSProject/myroot
+total 8
+drwxrwxrwx+ 2 codespace codespace 4096 Jan 30 13:59 .
+drwxrwxrwx+ 5 codespace root      4096 Jan 30 13:59 ..
+@Hasiff100303 ➜ /workspaces/OSProject (main) $ id
+uid=1000(codespace) gid=1000(codespace) groups=1000(codespace),106(ssh),107(docker),988(pipx),989(python),990(oryx),991(golang),992(sdkman),993(rvm),994(php),995(conda),996(nvs),997(nvm),998(hugo),999(dotnet)
+@Hasiff100303 ➜ /workspaces/OSProject (main) $ 
+``` 
 
 ## You are on your own, create your own static webpage
 
