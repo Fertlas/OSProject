@@ -410,7 +410,7 @@ f65be1987f84   debian    "bash"    19 minutes ago   Exited (137) 18 seconds ago 
 ***Questions:***
 
 1. Are files in the container persistent. Why not?. ***(1 mark)*** 
-- No it's not because 
+- No it's not persistent because once you remove the file, the file will not be saved.
 2. Can we run two, or three instances of debian linux? . ***(1 mark)***
 - Yes you can.
 
